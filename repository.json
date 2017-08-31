@@ -1,3 +1,5 @@
 {
-  "name": "Some Hass.io add-ons for Home Assistant"
+  "name": "Some Hass.io add-ons for Home Assistant",
+  "url": "https://github.com/asciinaut/hassio-addons",
+  "maintainer": "ASCIInaut <marcel@kossin.cloud>"
 }
